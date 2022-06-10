@@ -29,6 +29,6 @@
 [[source]](Paper.pdf)
 
 ## CIFAR-10 Dataset
-A very popular dataset which contains 10 different objects  
+A very popular dataset which contains 10 different objects.   
   
 ![images](https://user-images.githubusercontent.com/89085916/169703589-40e18144-5f3a-4f5a-ae5f-70f43c66dfc7.jpg)
