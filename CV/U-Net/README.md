@@ -2,7 +2,7 @@
 
 ## Contents
 
-* [paper](paper.pdf)
+* [paper](Paper.pdf)
 * [implementation](model.py)
 
 ## Summary
@@ -25,4 +25,4 @@ feature map from the contracting path, and two 3x3 convolutions, each followed b
 every convolution. At the final layer a 1x1 convolution is used to map each 64-
 component feature vector to the desired number of classes. In total the network
 has 23 convolutional layers.  
-[source](paper.pdf)
+[source](Paper.pdf)
