@@ -1,4 +1,4 @@
-# U-Net: Convolutional Neural Network
+# U-Net: Convolutional Neural Network for Biomedical Image Segmentation
 
 ## Contents
 
