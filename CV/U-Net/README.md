@@ -1,4 +1,4 @@
-# U-Net: Convolutional Neural Network for Biomedical Image Segmentation
+# U-Net: Convolutional Network for Biomedical Image Segmentation
 
 ## Contents
 
@@ -24,5 +24,4 @@ number of feature channels, a concatenation with the correspondingly cropped
 feature map from the contracting path, and two 3x3 convolutions, each followed by a ReLU. The cropping is necessary due to the loss of border pixels in
 every convolution. At the final layer a 1x1 convolution is used to map each 64-
 component feature vector to the desired number of classes. In total the network
-has 23 convolutional layers.  
-[source](Paper.pdf)
+has 23 convolutional layers. [[source]](Paper.pdf)
