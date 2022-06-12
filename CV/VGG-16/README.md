@@ -26,7 +26,6 @@
 14. Fully connected with 4096 nodes  
 15. Fully connected with 4096 nodes  
 16. Output layer with Softmax activation with 10 nodes  
-[[source]](Paper.pdf)
 
 ## CIFAR-10 Dataset
 A very popular dataset which contains 10 different objects.   
