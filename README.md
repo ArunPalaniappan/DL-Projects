@@ -12,8 +12,8 @@
 
 ### Natural Language Processing
 
-* [Bi-LSTM: kaggle spam classification](https://github.com/ArunPalaniappan/DL-Projects/tree/main/NLP/Bi-LSTM)
-* [RNN: email spam detection](https://github.com/ArunPalaniappan/DL-Projects/tree/main/NLP/RNN)
+* [Bi-LSTM: Kaggle spam classification](https://github.com/ArunPalaniappan/DL-Projects/tree/main/NLP/Bi-LSTM)
+* [RNN: Email spam detection](https://github.com/ArunPalaniappan/DL-Projects/tree/main/NLP/RNN)
   
 ##
 [![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunPalaniappan&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/ArunPalaniappan/github-readme-stats)
