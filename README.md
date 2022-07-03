@@ -12,8 +12,8 @@
 
 ### Natural Language Processing
 
-* [LeNet-5 : on CIFAR-10 Dataset](https://github.com/ArunPalaniappan/DL-Projects/tree/main/NLP/Bi-LSTM)
-  
+* [Bi-LSTM: kaggle spam classification](https://github.com/ArunPalaniappan/DL-Projects/tree/main/NLP/Bi-LSTM)
+* [RNN: email spam detection](https://github.com/ArunPalaniappan/DL-Projects/tree/main/NLP/RNN)
   
 ##
 [![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunPalaniappan&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/ArunPalaniappan/github-readme-stats)
